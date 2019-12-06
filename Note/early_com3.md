@@ -281,4 +281,6 @@
 而且为如今便利的数字时代 做出了重要基石性工作  
 
 
-
+## 接下来  
+- [计算器早期历史](https://github.com/KissMyLady/Computer/blob/master/Note/Early_computing.md)  
+- [电子计算机](https://github.com/KissMyLady/Computer/blob/master/Note/early_com2.md)   
