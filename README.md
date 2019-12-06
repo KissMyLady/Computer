@@ -10,6 +10,7 @@ Computer
 
 ## :computer: 计算机有趣的历史  
 - [计算器早期历史](https://github.com/KissMyLady/Computer/blob/master/Note/Early_computing.md)  
+- [电子计算机](https://github.com/KissMyLady/Computer/blob/master/Note/early_com2.md)  
 
 ## :pencil2: 计算机底层
 敬请期待
