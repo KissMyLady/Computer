@@ -2,7 +2,7 @@
 =====
 
 ## 计算的大量需要  
-!(https://github.com/KissMyLady/Computer/blob/master/Image/com/b-1.jpg)  
+![1](https://github.com/KissMyLady/Computer/blob/master/Image/com/b-1.jpg)  
 20世纪上半叶，世界人口几乎翻倍  
 一战动员7千万人，二战1亿多人  
 全球贸易和运输更加紧密  
@@ -10,7 +10,7 @@
 - 我们甚至开始考虑登陆其他行星  
 
 复杂度的增高导致数据量暴增  
-!(https://github.com/KissMyLady/Computer/blob/master/Image/com/b-2.jpg)  
+![1](https://github.com/KissMyLady/Computer/blob/master/Image/com/b-2.jpg)  
 ### 人们需要更多自动化 更强的计算能力  
 很快，柜子大小的计算机变成房间大小  
 维护费用高 而且容易出错  
@@ -23,7 +23,7 @@
 > 它有76万5千个组件，300万个连接点和500英里长的导线  
 > 为了保持内部机械装置同步  
 > 它有一个50英尺的传动轴，由一个 5 马力的电机驱动  
-!(https://github.com/KissMyLady/Computer/blob/master/Image/com/b-4.jpg)  
+![1](https://github.com/KissMyLady/Computer/blob/master/Image/com/b-4.jpg)  
 这台机器最早的用途之一 是给["曼哈顿计划"](https://baike.baidu.com/item/%E6%9B%BC%E5%93%88%E9%A1%BF%E8%AE%A1%E5%88%92/2141?fromtitle=%E6%9B%BC%E5%93%88%E9%A1%BF%E5%8E%9F%E5%AD%90%E5%BC%B9%E8%AE%A1%E5%88%92&fromid=15780658)跑模拟  
 这台机器的大脑是"继电器"  
 
@@ -34,7 +34,7 @@
 > "控制线路" 连着一个线圈  
 > 当电流流过线圈，线圈产生电磁场  
 > 吸引金属臂，从而闭合电路  
-!(https://github.com/KissMyLady/Computer/blob/master/Image/com/b-5.jpg)  
+![1](https://github.com/KissMyLady/Computer/blob/master/Image/com/b-5.jpg)  
 
 ## 缺 点:
 这个控制电路可以连到其他电路，比如马达
@@ -62,7 +62,7 @@
 "从那时起，每当电脑出了问题，
 我们就说它出了 bug（虫子）"
 这就是术语 "bug" 的来源  
-!(https://github.com/KissMyLady/Computer/blob/master/Image/com/b-6.jpg)  
+![1](https://github.com/KissMyLady/Computer/blob/master/Image/com/b-6.jpg)  
 
 ## 热电子管  
 显然，如果想进一步提高计算能力  
@@ -93,7 +93,7 @@
 
 ### 优 点  
 - 真空管内没有会动的组件  
-!(https://github.com/KissMyLady/Computer/blob/master/Image/com/b-7.jpg)  
+![1](https://github.com/KissMyLady/Computer/blob/master/Image/com/b-7.jpg)  
 1、更少的磨损   
 * 更重要的是，每秒可以开闭数千次
 因此这些"三极真空管"成为了无线电，长途电话
@@ -142,7 +142,7 @@ Tommy Flowers设计，完工于1943年12月
 ## 晶体管  
 1947年，发明了晶体管  
 一个全新的计算机时代诞生了！  
-!(https://github.com/KissMyLady/Computer/blob/master/Image/com/b-8.jpg)  
+![1](https://github.com/KissMyLady/Computer/blob/master/Image/com/b-8.jpg)  
 > 晶体管 就像之前提过的"继电器"或"真空管"  
 > -它是一个开关，可以用控制线路来控制开或关  
 > 晶体管有两个电极，\N 电极之间有一种材料隔开它们，这种材料有时候导电  
