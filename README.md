@@ -1,6 +1,6 @@
 Computer 
 =====
-## 如果世界上的计算机突然都死机了？   
+## 如果世界上的计算机突然都挂了？   
 电网会关闭、车辆会相撞、飞机会坠毁、净水厂会关闭、股票市场会停止运作、   
 员工得不到薪水。。。我们生活中很多生产的东西，都是由计算机来管理制造的。  
 
@@ -10,7 +10,8 @@ Computer
 
 ## :computer: 计算机有趣的历史  
 - [计算器早期历史](https://github.com/KissMyLady/Computer/blob/master/Note/Early_computing.md)  
-- [电子计算机](https://github.com/KissMyLady/Computer/blob/master/Note/early_com2.md)  
+- [电子计算机](https://github.com/KissMyLady/Computer/blob/master/Note/early_com2.md)   
+- [阿兰·图灵](https://github.com/KissMyLady/Computer/blob/master/Note/early_com3.md)   
 
 ## :pencil2: 计算机底层
 敬请期待
