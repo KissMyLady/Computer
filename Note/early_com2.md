@@ -181,4 +181,6 @@ Tommy Flowers设计，完工于1943年12月
 里面的员工后来成立了"仙童半导体"  
 这里面的员工后来创立了英特尔 - 当今世界上最大的计算机芯片制造商   
 
-
+## 接下来  
+- [计算器早期历史](https://github.com/KissMyLady/Computer/blob/master/Note/Early_computing.md)  
+- [阿兰·图灵](https://github.com/KissMyLady/Computer/blob/master/Note/early_com3.md)    
