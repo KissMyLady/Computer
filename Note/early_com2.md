@@ -15,7 +15,7 @@
 很快，柜子大小的计算机变成房间大小  
 维护费用高 而且容易出错  
 而正是这些机器 为未来的创新打下基础  
-!(https://github.com/KissMyLady/Computer/blob/master/Image/com/b-3.jpg)  
+![1](https://github.com/KissMyLady/Computer/blob/master/Image/com/b-3.jpg)  
 
 ## 笨重的马克一号  
 ### 特 点  
