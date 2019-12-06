@@ -9,7 +9,7 @@ Computer
 接下来，让我来简单为你介绍下计算机吧  
 
 ## :computer: 计算机有趣的历史  
-
+- [计算器早期历史](https://github.com/KissMyLady/Computer/blob/master/Note/Early_computing.md)  
 
 ## :pencil2: 计算机底层
 敬请期待
