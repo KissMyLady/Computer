@@ -33,7 +33,8 @@ Computer
 ## 其他链接   
 - [知识来源--B站汇总](https://www.kanbilibili.com/video/av46133070/?p=2)  
 - [油管原版视频--汇总](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)   
-为什么不建议去B站在线观看？ 
+
+为什么不建议去B站在线观看？  
 * 学东西需要'深度学习', 不然你不是学习，而是在同B站的未成年一起消遣    
 怎么把B站优秀学习视频下载到本地？  
 * 上面的给的链接就可以直接下载   
