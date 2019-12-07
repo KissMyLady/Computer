@@ -251,12 +251,12 @@ ALU 里的 A和 L因此得名
 比如吃了午饭没，或有没有交电话费   
 这是一条真的内存，上面焊了8个内存模块   
 > ![e-19](https://github.com/KissMyLady/Computer/blob/master/Image/BASE_ALU_CPU/e-19.jpg)   
-> 打开其中一个，放大   
+## 打开其中一个，放大   
 > 会看到 32 个内存方块  
 > ![e-20](https://github.com/KissMyLady/Computer/blob/master/Image/BASE_ALU_CPU/e-20.jpg)    
-> 放大  
+## 放大   
 > ![e-21](https://github.com/KissMyLady/Computer/blob/master/Image/BASE_ALU_CPU/e-21.jpg)  
-> 再放大，可以看到存一个"位"的矩阵  
+## 再放大，可以看到存一个"位"的矩阵   
 > ![e-22](https://github.com/KissMyLady/Computer/blob/master/Image/BASE_ALU_CPU/e-22.jpg)   
 > 这个矩阵是128位x64位，总共8192位  
 >  
