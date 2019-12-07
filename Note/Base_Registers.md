@@ -1,7 +1,7 @@
 寄存器(Registers)-内存(RAM)  
 ==== 
 
-[上节](https://github.com/KissMyLady/Computer/blob/master/Note/Base_com1.md)，我们用逻辑门做了个简单 ALU  
+在[上节](https://github.com/KissMyLady/Computer/blob/master/Note/Base_com1.md)，我们用逻辑门做了个简单 ALU  
 它能执行算术(Arithmetic)和逻辑(Logic)运算   
 ALU 里的 A和 L因此得名  
 当然，算出来之后如果扔掉就没什么意义了  
@@ -278,3 +278,6 @@ ALU 里的 A和 L因此得名
 
 
 ## 接下来  
+- [返回主页-Computer](https://github.com/KissMyLady/Computer)  
+- [算数逻辑单元-ALU](https://github.com/KissMyLady/Computer/blob/master/Note/Base_com1.md)  
+- [中央处理器--CPU](https://github.com/KissMyLady/Computer/blob/master/Note/Base_CPU.md) 
