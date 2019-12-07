@@ -244,5 +244,8 @@
 恭喜你向现代化迈进了一大步，为自己鼓鼓掌   
 
 
-## 接下来  
+## 接下来 
+- [返回主页-Computer](https://github.com/KissMyLady/Computer)  
+- [寄存器(Registers)-内存(RAM)](https://github.com/KissMyLady/Computer/blob/master/Note/Base_Registers.md)    
+- [中央处理器--CPU](https://github.com/KissMyLady/Computer/blob/master/Note/Base_CPU.md) 
 
