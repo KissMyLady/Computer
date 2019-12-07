@@ -14,7 +14,7 @@ Computer
 - [阿兰·图灵](https://github.com/KissMyLady/Computer/blob/master/Note/early_com3.md)   
 
 ## :pencil2: 计算机底层
-敬请期待
+- [算数逻辑单元](https://github.com/KissMyLady/Computer/blob/master/Note/Base_com1.md)  
 
 ## :floppy_disk: 编程语言底层
 敬请期待
