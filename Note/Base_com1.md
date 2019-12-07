@@ -55,7 +55,7 @@
 ## 1位加法器    
 记住二进制里，1与true相同，0与false相同   
 这组输入和输出，和XOR门的逻辑完全一样   
-- [4](https://github.com/KissMyLady/Computer/blob/master/Image/BASE_ALU_CPU/d-4.jpg)    
+![4](https://github.com/KissMyLady/Computer/blob/master/Image/BASE_ALU_CPU/d-4.jpg)    
 所以我们可以把 XOR 用作 1位加法器（adder）  
 
 但第四个输入组合，1+1，是个特例   
