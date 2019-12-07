@@ -1,5 +1,6 @@
 Computer 
 =====
+[![HitCount](http://hits.dwyl.io/Kiss_My_Lady/Computer.svg)](http://hits.dwyl.io/Kiss_My_Lady/Computer)
 ## 如果世界上的计算机突然都挂了？   
 电网会关闭、车辆会相撞、飞机会坠毁、净水厂会关闭、股票市场会停止运作、   
 员工得不到薪水。。。我们生活中很多生产的东西，都是由计算机来管理制造的。  
@@ -53,4 +54,4 @@ Computer
 本仓库的内容是平时个人学习拙见与网络大佬文章细节拼接，这样，省去了打字的劳苦，也很感谢世界上为此默默奉献的人，同时，会尽量保证给出资料引用的地址，其余就是知识讲解了。在您引用此仓库的内容或进行修改时，请署名以相同方式共享，感谢。  
 
 转载文章不限制，记得起就写，懒得写就算了，不强求。  
-[![HitCount](http://hits.dwyl.io/Kiss_My_Lady/Computer.svg)](http://hits.dwyl.io/Kiss_My_Lady/Computer)
+
