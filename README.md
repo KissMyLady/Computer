@@ -15,6 +15,7 @@ Computer
 
 ## :pencil2: 计算机底层
 - [算数逻辑单元](https://github.com/KissMyLady/Computer/blob/master/Note/Base_com1.md)  
+- [寄存器-内存](https://github.com/KissMyLady/Computer/blob/master/Note/Base_Registers.md)    
 
 ## :floppy_disk: 编程语言底层
 敬请期待
