@@ -254,7 +254,7 @@ ALU 里的 A和 L因此得名
 ## 打开其中一个，放大   
 > 会看到 32 个内存方块  
 > ![e-20](https://github.com/KissMyLady/Computer/blob/master/Image/BASE_ALU_CPU/e-20.jpg)    
-## 放大   
+## 放  大    
 > ![e-21](https://github.com/KissMyLady/Computer/blob/master/Image/BASE_ALU_CPU/e-21.jpg)  
 ## 再放大，可以看到存一个"位"的矩阵   
 > ![e-22](https://github.com/KissMyLady/Computer/blob/master/Image/BASE_ALU_CPU/e-22.jpg)   
