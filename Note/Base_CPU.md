@@ -243,10 +243,14 @@ ALU可以执行不同操作
 现在可以放到盒子里，变成一个独立组件  
 ![f21](https://github.com/KissMyLady/Computer/blob/master/Image/BASE_ALU_CPU/f-21.jpg)  
 一层新的抽象(封装)！     
+  
+看到这里，是否对电脑的内存、CPU有进一步了解？  
+去买电脑知道什么重要了吧...
 
-虽然今天我们设计的 CPU是简化版的     
-但我们提到的很多机制，依然存在于现代处理器里      
-下一节，我们要加强CPU，给它扩展更多指令     
-
-
-## 接下来  
+如有疑问, [欢迎提问](https://github.com/KissMyLady/Computer/issues)，或是加QQ群讨论: 36877 9008     
+欢迎你的加入！    
+  
+## 接下来 
+- [返回主页-Computer](https://github.com/KissMyLady/Computer)  
+- [算数逻辑单元-ALU](https://github.com/KissMyLady/Computer/blob/master/Note/Base_com1.md)  
+- [寄存器(Registers)-内存(RAM)](https://github.com/KissMyLady/Computer/blob/master/Note/Base_Registers.md)    
