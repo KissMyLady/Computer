@@ -8,7 +8,7 @@ Computer
 
 接下来，让我来简单为你介绍下计算机吧  
 
-## :computer: 计算机有趣的历史  
+## :computer: 有趣的发展历程   
 - [计算器早期历史](https://github.com/KissMyLady/Computer/blob/master/Note/Early_computing.md)  
 - [电子计算机](https://github.com/KissMyLady/Computer/blob/master/Note/early_com2.md)   
 - [阿兰·图灵](https://github.com/KissMyLady/Computer/blob/master/Note/early_com3.md)   
