@@ -14,8 +14,8 @@ Computer
 - [阿兰·图灵](https://github.com/KissMyLady/Computer/blob/master/Note/early_com3.md)   
 
 ## :pencil2: 计算机底层
-- [算数逻辑单元](https://github.com/KissMyLady/Computer/blob/master/Note/Base_com1.md)  
-- [寄存器-内存](https://github.com/KissMyLady/Computer/blob/master/Note/Base_Registers.md)    
+- [算数逻辑单元-ALU](https://github.com/KissMyLady/Computer/blob/master/Note/Base_com1.md)  
+- [寄存器(Registers)-内存(RAM)](https://github.com/KissMyLady/Computer/blob/master/Note/Base_Registers.md)    
 
 ## :floppy_disk: 编程语言底层
 敬请期待
