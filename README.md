@@ -16,6 +16,7 @@ Computer
 ## :pencil2: 计算机底层
 - [算数逻辑单元-ALU](https://github.com/KissMyLady/Computer/blob/master/Note/Base_com1.md)  
 - [寄存器(Registers)-内存(RAM)](https://github.com/KissMyLady/Computer/blob/master/Note/Base_Registers.md)    
+- [中央处理器--CPU](https://github.com/KissMyLady/Computer/blob/master/Note/Base_CPU.md)  
 
 ## :floppy_disk: 编程语言底层
 敬请期待
