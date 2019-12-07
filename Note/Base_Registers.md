@@ -1,4 +1,4 @@
-寄存器-内存  
+寄存器(Registers)-内存(RAM)  
 ==== 
 
 [上节](https://github.com/KissMyLady/Computer/blob/master/Note/Base_com1.md)，我们用逻辑门做了个简单 ALU  
