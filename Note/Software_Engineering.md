@@ -16,7 +16,7 @@
 为了写大型程序，程序员用各种工具和方法   
 所有这些形成了"软件工程"学科  
 这个词由工程师Margaret Hamilton创造   
-她帮助NASA在阿波罗计划中避免了严重问题   
+![1](https://github.com/KissMyLady/Computer/blob/master/Image/Software_engieer/s-1.jpg)   
 她曾说过：  
 > "有点像牙根管治疗：你总是拖到最后才做, 但有些事可以预先做好, 有点像预防性体检, 只不过是预防软件出错"    
 
@@ -39,7 +39,7 @@
 ---
 例如，汽车软件中 可能有几个和定速巡航有关的函数  
 比如 设定速度，逐渐加速减速，停止定速巡航  
-> 因为这些函数都相关，可以包装成一个"定速巡航对象"  
+> ![2](https://github.com/KissMyLady/Computer/blob/master/Image/Software_engieer/s-2.jpg)  
 但不止如此，我们还可以做更多
 "定速巡航"只是引擎软件的一部分
 > 可能还有 "火花塞点火" "燃油泵" 和 "散热器"
@@ -57,8 +57,9 @@
 还有传动装置，车轮，门，窗等   
 作为程序员，如果想设"定速巡航"   
 要一层层向下  
-从最外面的对象往里找, 最后找到想执行的函数： 
- 
+从最外面的对象往里找, 最后找到想执行的函数：
+> ![3](https://github.com/KissMyLady/Computer/blob/master/Image/Software_engieer/s-3.jpg)  
+
 
 ## 面向对象编程(OOP)  
 把函数打包成对象的思想叫 "面向对象编程"  
@@ -75,6 +76,7 @@
 > 一个团队负责定速巡航系统   
 >> 团队里的一位程序员负责其中一些函数  
 >>> 类似建摩天大楼  
+>>> ![4](https://github.com/KissMyLady/Computer/blob/master/Image/Software_engieer/s-4.jpg)  
 >>> 有电工装电线  
 >>> 管道工配管   
 >>> 焊接工焊接   
@@ -99,8 +101,9 @@
 >  "设置发动机转速"非常有用    
 >  "定速巡航"团队要用到这个函数    
 >  但他们对点火系统不怎么了解  
->  让他们调用"点燃单个火花塞"函数，不是好主意     
->  引擎可能会炸！，可能啦    
+>  让他们调用"点燃单个火花塞"函数，不是好主意   
+> ![5](https://github.com/KissMyLady/Computer/blob/master/Image/Software_engieer/s-5.jpg)    
+> 可能啦    
 
 
 ### OOP的设置权限  
@@ -121,6 +124,7 @@ OOP可以指定函数是public或private，来设置权限
 - 都是 "面向对象" 编程语言写的   
 * 比如 C++, C#, Objective-C等  
 * 其他流行OO语言，你可能听过Java和Python 
+![6](https://github.com/KissMyLady/Computer/blob/master/Image/Software_engieer/s-6.jpg)   
 
 
 ### IDE  
@@ -177,6 +181,7 @@ OOP可以指定函数是public或private，来设置权限
 ## 源代码管理(版本控制)     
 除了 IDE，还有一个重要软件帮助团队协作   
 源代码管理, 也叫"版本控制"   
+![7](https://github.com/KissMyLady/Computer/blob/master/Image/Software_engieer/s-7.jpg)   
 > 苹果或微软这样的大型软件公司     
 > 会把代码放到一个中心服务器上    
 > 叫"代码仓库"  
@@ -198,7 +203,7 @@ check out
 当代码被check out，而且可能被改过了  
 其他开发者不会动这段代码   
 防止代码冲突和重复劳动  
-这样多名程序员可以同时写代码，建立庞大的系统  
+![8](https://github.com/KissMyLady/Computer/blob/master/Image/Software_engieer/s-8.jpg)  
 * 重要的是，你不希望提交的代码里有问题   
 * 因为其他人可能用到了这些代码  
 
