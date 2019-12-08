@@ -1,4 +1,4 @@
-万维网--WWW  
+万维网--World Wide Web  
 ===== 
 这次向上再抽象一层(封装)，来讨论万维网    
 [上一节--Internet互联网](https://github.com/KissMyLady/Computer/blob/master/Note/Networks_of_Internet.md)  
