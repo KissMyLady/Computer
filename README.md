@@ -26,7 +26,7 @@ Computer
 - [软件工程](https://github.com/KissMyLady/Computer/blob/master/Note/Software_Engineering.md)  
 
 ## :bulb: 改变世界的这张网  
-敬请期待
+- [计算机网络](https://github.com/KissMyLady/Computer/blob/master/Note/Networks_of_com.md)  
 
 ## :watermelon: 面向未来的技术
 敬请期待
