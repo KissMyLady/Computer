@@ -9,13 +9,13 @@
 ## 数据流通过程   
 计算机为了获取这个视频/网页     
 首先要连到局域网, 也叫LAN   
- 
-> 你家WIFI路由器连着的所有设备，组成了局域网.    
->> 局域网再连到广域网，广域网也叫WAN    
+> ![1](https://github.com/KissMyLady/Computer/blob/master/Image/Works/ww-1.jpg)   
+>> ![2](https://github.com/KissMyLady/Computer/blob/master/Image/Works/ww-2.jpg)     
+>> WAN的路由器一般属于你的"互联网服务提供商"(ISP)  
 >> 比如Comcast，AT&T和Verizon这样的公司  
 >    
-> 广域网里，先连到一个区域性路由器，这路由器可能覆盖一个街区。 
->> 然后连到一个更大的WAN，可能覆盖整个城市
+> ![3](https://github.com/KissMyLady/Computer/blob/master/Image/Works/ww-3.jpg)   
+>> ![4](https://github.com/KissMyLady/Computer/blob/master/Image/Works/ww-4.jpg)  
 > 
 > 可能再跳几次，但最终会到达互联网主干  
 > 互联网主干由一群超大型、带宽超高路由器组成  
@@ -45,9 +45,10 @@ windows: tracert www.yahoo.com
 * 但数据包到底是怎么过去的？   
 * 如果传输时数据包被弄丢了，会发生什么？     
 * 如果在浏览器里输 "DFTBA.com"，浏览器怎么知道服务器的地址多少？ 
-我们今天会讨论这些话题.  
+我们今天会讨论这些话题    
 
-## 协  议 
+
+## 互联网协议 
 互联网是一个巨型分布式网络  
 会把数据拆成一个个数据包来传输  
 如果要发的数据很大，比如邮件附件 
@@ -65,17 +66,17 @@ windows: tracert www.yahoo.com
 > 违反这些规定，信件就无法送达.  
 
 因为IP是一个非常底层的协议  
-数据包的头部（或者说前面）只有目标地址  
-头部存 "关于数据的数据"    
+数据包的头部只有目标地址, 头部存 "关于数据的数据"    
+![5](https://github.com/KissMyLady/Computer/blob/master/Image/Works/ww-5.jpg)  
 也叫元数据(metadata)   
 这意味着当数据包到达对方电脑    
 对方不知道把包交给哪个程序，是交给Skype还是使命召唤？    
-因此需要在 IP 之上，开发更高级的协议.    
+因此需要在IP之上，开发更高级的协议.    
 
 
 ## UDP
 这些协议里最简单最常见的叫"用户数据报协议"，简称 UDP 
-头部里包含有用的信息端口号  
+![6](https://github.com/KissMyLady/Computer/blob/master/Image/Works/ww-6.jpg)  
 每个想访问网络的程序, 都要向操作系统申请一个端口号   
 比如Skype会申请端口3478   
 当一个数据包到达时    
@@ -95,8 +96,7 @@ windows: tracert www.yahoo.com
 > 在发送数据包前, 电脑会把所有数据加在一起, 算出"校验和"  
 >> 89+111+33+... 以此类推  
 >> 得到 364，这就是"校验和"   
->>> 如果算出来的和，超过了16位能表示的最大值   
->>> 高位数会被扔掉，保留低位   
+>>> ![ww-7](https://github.com/KissMyLady/Computer/blob/master/Image/Works/ww-7.jpg)
 
 当接收方电脑收到这个数据包  
 它会重复这个步骤   
@@ -122,14 +122,14 @@ windows: tracert www.yahoo.com
 但对于其他一些数据，这个方法不适用.    
 
 
-## TCP
-> 如果"所有数据必须到达"   
-> 就用"传输控制协议"(TCP)   
-> 因此，人们叫这个组合TCP/IP   
+## TCP  
+> 如果"所有数据必须到达"     
+> 就用"传输控制协议"(TCP)     
+> 因此，人们叫这个组合TCP/IP     
 
 TCP头部也有"端口号"和"校验和"  
 但TCP有更高级的功能，这里只介绍重要的几个  
-
+[三次握手, 四次挥手](https://github.com/KissMyLady/Web-of-Python/blob/master/Web_Server/3hand.md)
 ### 1、TCP数据包有序号   
 > 15号之后是16号，     
 > 16号之后是17号，以此类推....    
@@ -143,11 +143,11 @@ TCP头部也有"端口号"和"校验和"
 "确认码"(ACK)    
 得知上一个数据包成功抵达后，发送方会发下一个数据包    
  
-假设这次发出去之后，没收到确认码   
-那么肯定哪里错了    
+假设这次发出去之后，没收到确认码     
+那么肯定哪里错了       
   
-如果过了一定时间还没收到确认码  
-发送方会再发一次   
+如果过了一定时间还没收到确认码   
+发送方会再发一次     
   
 注意, 数据包可能的确到了  
 只是确认码延误了很久，或传输中丢失了  
@@ -155,8 +155,7 @@ TCP头部也有"端口号"和"校验和"
 如果收到重复的数据包就删掉  
 
 #### 还有，TCP不是只能一个包一个包发
-可以同时发多个数据包，收多个确认码
-这大大增加了效率，不用浪费时间等确认码
+![8](https://github.com/KissMyLady/Computer/blob/master/Image/Works/ww-8.jpg)  
 
 有趣的是，确认码的成功率和来回时间  
 可以推测网络的拥堵程度  
@@ -170,6 +169,7 @@ TCP头部也有"端口号"和"校验和"
 但并没有传输更多信息  
 有时候这种代价是不值得的   
 特别是对时间要求很高的程序，比如在线射击游戏     
+![9](https://github.com/KissMyLady/Computer/blob/master/Image/Works/ww-9.jpg)  
 如果你玩游戏很卡，你也会觉得这样不值!   
 
 
@@ -191,7 +191,7 @@ TCP头部也有"端口号"和"校验和"
 > 在浏览器里输youtube.com  
 > 浏览器会去问DNS服务器，它的IP地址是多少  
 
-一般DNS服务器, 是互联网供应商提供的   
+![10](https://github.com/KissMyLady/Computer/blob/master/Image/Works/ww-10.jpg)     
 如果你乱敲键盘加个.com然后按回车  
 你很可能会看到DNS错误  
 因为那个网站不存在，所以DNS无法返回给你一个地址    
@@ -209,6 +209,7 @@ TCP头部也有"端口号"和"校验和"
 >> 比如images.google.com,  store.dftba.com
 
 #### 这个树超！级！大！
+![11](https://github.com/KissMyLady/Computer/blob/master/Image/Works/ww-11.jpg)  
 前面说的"三千万个域名"只是二级域名, 不是所有子域名   
 > 因此，这些数据散布在很多DNS服务器上  
 > 不同服务器负责树的不同部分  
@@ -236,13 +237,13 @@ TCP头部也有"端口号"和"校验和"
 
 ## 会  话 
 这一整套叫"会话"  
-查询DNS或看网页时，就会发生这一套流程  
-这是开放式系统互联通信参考模型(OSI) 的底下5层  
+查询DNS或看网页时，就会发生这一套流程   
 这个概念性框架, 把网络通信划分成多层    
+![12](https://github.com/KissMyLady/Computer/blob/master/Image/Works/ww-12.jpg)    
 每一层处理各自的问题
-如果不分层, 直接从上到下捏在一起实现网络通信, 是完全不可能的
+如果不分层, 直接从上到下捏在一起实现网络通信, 是完全不可能的  
 
-抽象使得科学家和工程师能分工同时改进多个层, 不被整体复杂度难倒  
+抽象使得科学家和工程师能分工同时改进多个层  不被整体复杂度难倒  
 封装使得可以摆脱系统整体的复杂，降低耦合度  
 
 
