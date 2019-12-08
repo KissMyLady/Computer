@@ -1,10 +1,7 @@
 万维网  
 ===== 
-
-前两节深入讨论了电线、信号、交换机、数据包       
-路由器以及协议，它们共同组成了互联网   
-这次我们向上再抽象一层(封装)，来讨论万维网    
-[上一节]]()
+这次向上再抽象一层(封装)，来讨论万维网    
+[上一节]](https://github.com/KissMyLady/Computer/blob/master/Note/Networks_of_Internet.md)  
 
 ## 万维网(www)
 万维网(World Wide Web)和互联网(Internet)不是一回事   
