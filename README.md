@@ -1,6 +1,6 @@
 Computer 
 =====
-[![HitCount](http://hits.dwyl.io/Kiss_My_Lady/Computer.svg)](http://hits.dwyl.io/Kiss_My_Lady/Computer)
+
 ## 如果世界上的计算机突然都挂了？   
 电网会关闭、车辆会相撞、飞机会坠毁、净水厂会关闭、股票市场会停止运作、   
 员工得不到薪水。。。我们生活中很多生产的东西，都是由计算机来管理制造的。  
@@ -39,7 +39,7 @@ Computer
 * 学东西需要'深度学习', 不然你不是学习，而是在同B站的未成年一起消遣    
 怎么把B站优秀学习视频下载到本地？  
 * 上面的给的链接就可以直接下载   
-
+[![HitCount](http://hits.dwyl.io/Kiss_My_Lady/Computer.svg)](http://hits.dwyl.io/Kiss_My_Lady/Computer)
 
 ### 排版    
 
