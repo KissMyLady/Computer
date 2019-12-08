@@ -23,7 +23,7 @@ Computer
 敬请期待
 
 ## :wrench:  编程语言
-敬请期待
+- [软件工程](https://github.com/KissMyLady/Computer/blob/master/Note/Software_Engineering.md)  
 
 ## :bulb: 计算机网络/互联网/万维网
 敬请期待
