@@ -33,7 +33,7 @@ Computer
 - [密码学--传输信息加密机制](https://github.com/KissMyLady/Computer/blob/master/Note/Noteworks_of_password.md)  
 
 ## :watermelon: 面向未来的技术
-敬请期待
+- [AI--计算机视觉](https://github.com/KissMyLady/Computer/blob/master/Note/AI_I_see.md)   
 
 ## 其他链接   
 - [知识来源--B站汇总](https://www.kanbilibili.com/video/av46133070/?p=2)  
