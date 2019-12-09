@@ -39,6 +39,7 @@ Computer
 - [AI--机器人](https://github.com/KissMyLady/Computer/blob/master/Note/AI_robot.md)
 - [AI--计算机心理学](https://github.com/KissMyLady/Computer/blob/master/Note/AI_xinli.md)
 - [AI--科技教育](https://github.com/KissMyLady/Computer/blob/master/Note/AI_educational.md)
+- [AI--奇点、天网、未来](https://github.com/KissMyLady/Computer/blob/master/Note/AI_future.md)  
 
 ## 其他链接   
 - [知识来源--B站汇总](https://www.kanbilibili.com/video/av46133070/?p=2)  
