@@ -174,7 +174,7 @@
 >   
 >> 双方有一样的密钥，即使我们从来没给对方发过各自的秘密指数    
 >> 我们可以用这个大数字当密钥，用AES之类的加密技术来加密通信  
->> ![14](https://github.com/KissMyLady/Computer/blob/master/Image/Works/add-14.jpg)  
+>> ![14](https://github.com/KissMyLady/Computer/blob/master/Image/Works/add-14.jpeg)  
 
 ## 对称加密与非对称加密  
 "Diffie-Hellman密钥交换"是建立共享密钥的一种方法。   
