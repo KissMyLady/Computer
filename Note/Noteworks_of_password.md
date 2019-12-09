@@ -214,4 +214,9 @@
 谢啦密码学！  
 
 
-## 接下来    
+## 接下来  
+- [返回Computer主页](https://github.com/KissMyLady/Computer)
+- [计算机网络](https://github.com/KissMyLady/Computer/blob/master/Note/Networks_of_com.md)    
+- [互联网-Internet](https://github.com/KissMyLady/Computer/blob/master/Note/Networks_of_Internet.md)     
+- [万维网-WWW](https://github.com/KissMyLady/Computer/blob/master/Note/WWW.md)   
+- [计算机安全](https://github.com/KissMyLady/Computer/blob/master/Note/Notework_of_safety.md)  
