@@ -36,6 +36,7 @@ Computer
 - [AI--机器学习与深度学习](https://github.com/KissMyLady/Computer/blob/master/Note/AI_Deep_learn.md)
 - [AI--计算机视觉](https://github.com/KissMyLady/Computer/blob/master/Note/AI_I_see.md)   
 - [AI--自然语言处理](https://github.com/KissMyLady/Computer/blob/master/Note/AI_language.md)
+- [AI--机器人](https://github.com/KissMyLady/Computer/blob/master/Note/AI_robot.md)
 
 ## 其他链接   
 - [知识来源--B站汇总](https://www.kanbilibili.com/video/av46133070/?p=2)  
