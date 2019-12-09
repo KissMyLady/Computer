@@ -1,4 +1,4 @@
- 计算机视觉  
+AI--计算机视觉  
  ====
 
 
@@ -93,16 +93,16 @@
 > 或者包了一圈对比色的区域     
 这类"核"可以描述简单的形状   
 
-> ![14](![1](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-14.jpg)  )  
+> ![14](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-14.jpg)  
 > 所以线段敏感的"核"对这里的值更高, 眼睛也很独特    
->> ![15](![1](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-15.jpg)  )  
+>> ![15](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-15.jpg)  
 >> 有其它"核"对这种模式敏感   
 
 ### 人脸检测算法   
 当计算机扫描图像时，最常见的是用一个窗口来扫   
 可以找出人脸的特征组合    
 * 虽然每个"核"单独找出脸的能力很弱, 但组合在一起会相当准确      
-* ![16](![1](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-16.jpg)  )  
+* ![16](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-16.jpg)  
 * 不是脸但又有一堆脸的特征在正确的位置, 这种情况不太可能    
 这是一个早期很有影响力的算法的基础 
 叫维奥拉·琼斯人脸检测算法    
@@ -111,11 +111,11 @@
 如今的热门算法是 "卷积神经网络"     
 > 神经网络的最基本单位，是神经元     
 > 它有多个输入，然后会把每个输入乘一个权重值  
-> ![17](![1](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-17.jpg)  )      
+> ![17](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-17.jpg)       
 听起来好像挺耳熟，因为它很像"卷积"   
 
 如果我们给神经元输入二维像素
-![18](![1](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-18.jpg)  )   
+![18](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-18.jpg)   
 > 输入权重等于"核"的值, 但和预定义"核"不同  
 > 神经网络可以学习对自己有用的"核"，来识别图像中的特征   
 > "卷积神经网络"用一堆神经元处理图像数据   
@@ -131,7 +131,7 @@
 > 然后不断重复，逐渐增加复杂度  
 > 直到某一层把所有特征放到一起：  
 >> 眼睛，耳朵，嘴巴，鼻子  
->> ![19](![1](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-19.jpg)  )  
+>> ![19](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-19.jpg)   
 
 ## 深度学习  
 "卷积神经网络"不是非要很多很多层        
@@ -147,7 +147,7 @@
 >> 比如鼻尖和嘴角     
 >> 有了标志点，判断眼睛有没有张开就很容易了     
 >> 只是点之间的距离罢了     
->> ![20](![1](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-20.jpg)  )  
+>> ![20](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-20.jpg)  
 也可以跟踪眉毛的位置     
 > 眉毛相对眼睛的位置可以代表惊喜或喜悦     
 > 根据嘴巴的标志点，检测出微笑也很简单     
@@ -173,7 +173,7 @@
 
 人脸识别有无限应用场景  
 另外  跟踪手臂和全身的标记点，最近也有一些突破  
-![21](![1](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-21.jpg)  )  
+![21](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-21.jpg)  
 比如用户给联网微波炉的手势  
 正如系列中常说的，抽象是构建复杂系统的关键  
 
@@ -189,7 +189,7 @@
 这里的每一层都是活跃的研究领域  
 每年都有突破，这只是冰山一角  
 > 如今计算机视觉无处不在 
->> ![22](![1](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-22.jpg)  )  
+>> ![22](https://github.com/KissMyLady/Computer/blob/master/Image/AI/see-22.jpg)  
 >> 或是美颜相机里添加胡子的滤镜  
 令人兴奋的是, 一切才刚刚开始  
 最近的技术发展，比如超快的GPU，会开启越来越多可能性  
