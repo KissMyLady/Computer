@@ -12,6 +12,7 @@
 ## 机器学习
 * 机器学习算法让计算机可以从数据中学习, 然后自行做出预测和决定  
 	* 能自我学习的程序很有用, 比如判断是不是垃圾邮件, 这人有心律失常吗？  
+	* ![1](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-1.jpg)  
 虽然有用，但我们不会说它有人类一般的智能
 
 虽然AI和ML这两词经常混着用  
@@ -38,14 +39,15 @@
 ### 训练数据    
 为了训练"分类器"做出好的预测, 我们需要"训练数据"   
 为了得到数据    
-我们派昆虫学家到森林里收集"月蛾"和"帝蛾"的数据   
+![2](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-2.jpg)   
 
 ### 标记数据  
 > 专家可以认出不同飞蛾，  
 > 所以专家不只记录特征值，还会把种类也写上    
-> 这叫"标记数据"  
+> ![3](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-3.jpg)   
+
 因为只有两个特征, 很容易用散点图把数据视觉化  
-> 红色标了100个帝蛾, 蓝色标了100个月蛾    
+> ![4](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-4.jpg)      
 > 可以看到大致分成了两组, 但中间有一定重叠  
 所以想完全区分两个组比较困难  
 
@@ -55,18 +57,18 @@
 > 我用肉眼大致估算下
 >> 然后判断, 翼展小于45毫米的很可能是帝蛾  
 >> 可以再加一个条件，重量必须小于.75才算是帝蛾   
-这些线叫 "决策边界"   
+>> ![5](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-5.jpg)  
    
 ### 混淆矩阵    
 > 如果仔细看数据   
->> 86只帝蛾在正确的区域   
+>> ![6](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-6.jpg)  
 >> 但剩下14只在错误的区域  
 > 
 >> 另一方面，82只月蛾在正确的区域     
->> 18个在错误的区域    
+>> ![7](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-7.jpg)   
 这里有个表 记录正确数和错误数    
-这表叫"混淆矩阵"    
-"黑客帝国三部曲"的后两部也许该用这个标题    
+#### 这表叫"混淆矩阵"    
+![8](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-8.jpg)  
 
 
 注意我们没法画出100%正确分类的线  
@@ -90,14 +92,13 @@
 这个把决策空间切成几个盒子的简单方法  
 可以用"决策树"来表示  
 画成图像，会像左侧用if语句写代码，会像右侧  
-> 生成决策树的 机器学习算法  
-> 需要选择用什么特征来分类  
-> 每个特征用什么值  
+> 生成决策树的机器学习算法需要选择用什么特征来分类    
+> 每个特征用什么值    
+>> ![9](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-9.jpg)  
 
 
 "决策树"只是机器学习的一个简单例子
 如今有数百种算法，而且新算法不断出现
-
 
 ### 森 林
 一些算法甚至用多个"决策树"来预测
@@ -106,13 +107,13 @@
 本质上是用任意线段来切分"决策空间"
 不一定是直线, 可以是多项式或其他数学函数
 就像之前，机器学习算法负责
-找出最好的线，最准的决策边界
+![10](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-10.jpg)  
 之前的例子只有两个特征，人类也可以轻松做到   
 > 如果加第3个特征，比如"触角长度" 
 > 那么2D线段，会变成3D平面, 在三个维度上做决策边界  
 > 这些平面不必是直的   
 
-而且 真正有用的分类器, 会有很多飞蛾种类
+![11](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-11.jpg)  
 你可能会同意, 现在变得太复杂了
 但这也只是个简单例子: 只有3个特征和5个品种
 我们依然可以用 3D散点图 画出来
@@ -160,17 +161,20 @@
 ### 隐藏层  
 中间有一个隐藏层  
 > 负责把输入变成输出，负责干分类这个重活   
+> ![12](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-12.jpg)  
 
 为了看看它是如何分类的   
 > 我们放大"隐藏层"里的一个神经元    
 >> 神经元做的第一件事, 是把每个输入乘以一个权重  
 >>> 假设2.8是第一个输入，0.1是第二个输入。  
 >>> 然后它会相加输入
->>> 总共是9.74
->>> 然后对这个结果，用一个偏差值处理
->>> 意思是加或减一个固定值
+>>> 总共是9.7
+>>> ![13](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-13.jpg)  
 > 
-> 比如-6，得到3.74
+> 然后对这个结果，用一个偏差值处理  
+> 意思是加或减一个固定值  
+>> 比如-6，得到3.74  
+>> ![14](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-14.jpg)  
 
 
 ### 标记数据  
@@ -178,21 +182,24 @@
 然后算法会调整这些值来训练神经网络    
 使用"标记数据"来训练和测试, 逐渐提高准确性, 很像人类学习的过程  
 
-### 激活函数(传递函数)  
-* 神经元有激活函数，它也叫传递函数会应用于输出，对结果执行最后一次数学修改      
-> 例如，把值限制在-1和+1之间
-> 或把负数改成0
+### 激活函数(传递函数)    
+* 神经元有激活函数，它也叫传递函数会应用于输出，对结果执行最后一次数学修改
+> ![15](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-15.jpg)    
+> 例如，把值限制在-1和+1之间  
+> 或把负数改成0  
+  
+我们用线性传递函数，它不会改变值   
+> 所以3.74还是3.74  
+> 所以这里的例子, 输入0.55和82，输出3.74  
+这只是一个神经元，但加权，求和，偏置，激活函数  
+会应用于一层里的每个神经元, 并向前传播，一次一层    
+![16](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-16.jpg)   
+数字最高的就是结果：月蛾   
 
-我们用线性传递函数，它不会改变值
-> 所以3.74还是3.74
-> 所以这里的例子, 输入0.55和82，输出3.74
-这只是一个神经元，但加权，求和，偏置，激活函数
-会应用于一层里的每个神经元, 并向前传播，一次一层
-数字最高的就是结果：月蛾
-重要的是，隐藏层不是只能有一层，可以有很多层
 
-
-### 深度学习
+### 很多层隐藏层
+重要的是，隐藏层不是只能有一层，可以有很多层  
+![17](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-17.jpg)    
 "深度学习"因此得名
 > 训练更复杂的网络 需要更多的计算量和数据
 >> 尽管神经网络50多年前就发明了
@@ -231,11 +238,12 @@
 ### IBM沃森
 比如，IBM的沃森吸收了2亿个网页的内容
 包括维基百科的全文
-虽然不是"强AI" 但沃森也很聪明, 在2011年的知识竞答中碾压了人类  
+![18](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-18.jpg)  
 
 
 ### AlphaGo  
-2016年Google的AlphaGo, 一个会玩围棋的窄AI    
+2016年Google的AlphaGo   
+![19](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-19.jpg)  
 它和自己的克隆版下无数次围棋，从而打败最好的人类围棋选手  
 
 
@@ -243,7 +251,7 @@
 这叫 "强化学习"是一种很强大的方法
 
 深度学习和人类的学习方式非常类似  
-> 人类不是天生就会走路，是上千小时的试错学会的  
+> ![20](https://github.com/KissMyLady/Computer/blob/master/Image/AI/dp-20.jpg)  
 计算机现在才刚学会反复试错来学习  
 对于很多狭窄的问题，强化学习已被广泛使用  
 > 有趣的是，如果这类技术可以更广泛地应用 
