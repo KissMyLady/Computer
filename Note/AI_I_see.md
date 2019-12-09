@@ -197,5 +197,12 @@ AI--计算机视觉
 当然，如果计算机能听懂我们然后回话，就更好了 
 下章我们讨论计算机的[自然语言处理](#)    
 
-
+## 接下来  
+- [返回Computer主页](https://github.com/KissMyLady/Computer)
+- [AI--机器学习与深度学习](https://github.com/KissMyLady/Computer/blob/master/Note/AI_Deep_learn.md)
+- [AI--自然语言处理](https://github.com/KissMyLady/Computer/blob/master/Note/AI_language.md)
+- [AI--机器人](https://github.com/KissMyLady/Computer/blob/master/Note/AI_robot.md)
+- [AI--计算机心理学](https://github.com/KissMyLady/Computer/blob/master/Note/AI_xinli.md)
+- [AI--科技教育](https://github.com/KissMyLady/Computer/blob/master/Note/AI_educational.md)
+- [AI--奇点、天网、未来](https://github.com/KissMyLady/Computer/blob/master/Note/AI_future.md)  
 
