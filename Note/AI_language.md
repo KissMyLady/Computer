@@ -221,3 +221,12 @@ Harpy 是第一个可以识别1000个单词以上的系统
   
 这对机器人发展是个好消息    
 机器人就不用走来走去时带个键盘和人类沟通    
+
+## 接下来  
+- [返回Computer主页](https://github.com/KissMyLady/Computer)
+- [AI--机器学习与深度学习](https://github.com/KissMyLady/Computer/blob/master/Note/AI_Deep_learn.md)
+- [AI--计算机视觉](https://github.com/KissMyLady/Computer/blob/master/Note/AI_I_see.md)   
+- [AI--机器人](https://github.com/KissMyLady/Computer/blob/master/Note/AI_robot.md)
+- [AI--计算机心理学](https://github.com/KissMyLady/Computer/blob/master/Note/AI_xinli.md)
+- [AI--科技教育](https://github.com/KissMyLady/Computer/blob/master/Note/AI_educational.md)
+- [AI--奇点、天网、未来](https://github.com/KissMyLady/Computer/blob/master/Note/AI_future.md)  
