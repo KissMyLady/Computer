@@ -30,6 +30,7 @@ Computer
 - [互联网-Internet](https://github.com/KissMyLady/Computer/blob/master/Note/Networks_of_Internet.md)     
 - [万维网-WWW](https://github.com/KissMyLady/Computer/blob/master/Note/WWW.md)   
 - [计算机安全](https://github.com/KissMyLady/Computer/blob/master/Note/Notework_of_safety.md)  
+- [密码学--传输信息加密机制](https://github.com/KissMyLady/Computer/blob/master/Note/Noteworks_of_password.md)  
 
 ## :watermelon: 面向未来的技术
 敬请期待
