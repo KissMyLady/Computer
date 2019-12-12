@@ -13,6 +13,7 @@ Computer
 - [计算器早期历史](https://github.com/KissMyLady/Computer/blob/master/Note/Early_computing.md)  
 - [电子计算机](https://github.com/KissMyLady/Computer/blob/master/Note/early_com2.md)   
 - [阿兰·图灵](https://github.com/KissMyLady/Computer/blob/master/Note/early_com3.md)   
+- [储存介质发展史](https://github.com/KissMyLady/Computer/blob/master/Note/Memory_Storage.md)
 
 ## :pencil2: 计算机底层
 - [算数逻辑单元-ALU](https://github.com/KissMyLady/Computer/blob/master/Note/Base_com1.md)  
