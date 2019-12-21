@@ -51,6 +51,7 @@ Computer
 - [AI--奇点、天网、未来](https://github.com/KissMyLady/Computer/blob/master/Note/AI_future.md)  
 
 ## 其他链接   
+- [阿里巴巴开发手册规矩](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%8D%8E%E5%B1%B1%E7%89%88%EF%BC%89.pdf)  
 - [知识来源--B站汇总](https://www.kanbilibili.com/video/av46133070/?p=2)  
 - [油管原版视频--汇总](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)   
 
