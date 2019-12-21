@@ -31,7 +31,6 @@ Computer
 
 ## :wrench:  编程语言  
 - [软件工程](https://github.com/KissMyLady/Computer/blob/master/Note/Software_Engineering.md)  
-- [代码可读性](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%AF%BB%E6%80%A7.md)  
 - [算法-要学习领悟的题目大全](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%89%91%E6%8C%87%20Offer%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)  
 
 ## :bulb: 改变世界的这张网  
@@ -51,6 +50,7 @@ Computer
 - [AI--奇点、天网、未来](https://github.com/KissMyLady/Computer/blob/master/Note/AI_future.md)  
 
 ## 其他链接   
+- [代码可读性](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%AF%BB%E6%80%A7.md)  
 - [阿里巴巴开发手册规矩](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%8D%8E%E5%B1%B1%E7%89%88%EF%BC%89.pdf)  
 - [知识来源--B站汇总](https://www.kanbilibili.com/video/av46133070/?p=2)  
 - [油管原版视频--汇总](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)   
