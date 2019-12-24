@@ -31,7 +31,7 @@ Computer
 
 ## :wrench:  编程语言  
 - [软件工程](https://github.com/KissMyLady/Computer/blob/master/Note/Software_Engineering.md)  
-- [算法-要学习领悟的题目大全](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%89%91%E6%8C%87%20Offer%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)  
+- [算法思维修炼题目](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E5%89%91%E6%8C%87%20Offer%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)  
 
 ## :bulb: 改变世界的这张网  
 - [计算机网络](https://github.com/KissMyLady/Computer/blob/master/Note/Networks_of_com.md)    
