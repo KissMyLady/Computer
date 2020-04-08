@@ -54,24 +54,18 @@ Computer
 - [阿里巴巴开发手册规矩](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%8D%8E%E5%B1%B1%E7%89%88%EF%BC%89.pdf)  
 - [知识来源--B站汇总](https://www.kanbilibili.com/video/av46133070/?p=2)  
 - [油管原版视频--汇总](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)   
-
-为什么不建议去B站在线观看？  
-* 学东西需要'深度学习', 不然你不是学习，而是在同B站的未成年一起消遣    
+ 
 怎么把B站优秀学习视频下载到本地？  
 * 上面的给的链接就可以直接下载   
 [![HitCount](http://hits.dwyl.io/Kiss_My_Lady/Computer.svg)](http://hits.dwyl.io/Kiss_My_Lady/Computer)
 
 ### 排版    
-
 笔记内容按照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 进行排版，以保证内容的可读性。  
-不使用 `<img>` 这种方式来引用图片，而是用 `![]()` 标签，一方面够用，另一方面，今后可能也会采用这种方法居中显示图片。  
-
+  
 在线排版工具： [Text-Typesetting](https://github.com/CyC2018/Text-Typesetting)  
 
 技术支持： [CyC2018](https://github.com/CyC2018/Text-Typesetting)  
 
 ### License  
-本仓库的内容是平时个人学习拙见与网络大佬文章细节拼接，这样，省去了打字的劳苦，也很感谢世界上为此默默奉献的人，同时，会尽量保证给出资料引用的地址，其余就是知识讲解了。在您引用此仓库的内容或进行修改时，请署名以相同方式共享，感谢。  
-
-转载文章不限制，记得起就写，懒得写就算了，不强求。  
-
+本仓库的内容是平时个人学习拙见与网络大佬文章细节拼接
+转载不限制
